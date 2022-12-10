@@ -1,16 +1,8 @@
-# ai_tic_tac_toe
+# Ai Tic Tac Toe
 
-A new Flutter project.
+A new Flutter Game.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/91112485/206857493-32199489-d66c-407d-87a2-8b058a6bb4e5.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
