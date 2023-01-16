@@ -5,9 +5,6 @@ import 'package:ai_tic_tac_toe/constant/dimention.dart';
 import 'package:ai_tic_tac_toe/main.dart';
 import 'package:ai_tic_tac_toe/widgets/game_mode_tile.dart';
 
-
-
-
 class OnePlayerScreen extends StatelessWidget {
   const OnePlayerScreen({Key? key}) : super(key: key);
 
@@ -71,4 +68,3 @@ class OnePlayerScreen extends StatelessWidget {
         ));
   }
 }
-

@@ -4,7 +4,6 @@ import 'package:ai_tic_tac_toe/get_winner_func.dart';
 import 'package:ai_tic_tac_toe/main.dart';
 import 'package:ai_tic_tac_toe/widgets/game_painter.dart';
 
-
 class TwoPlayerScreen extends StatefulWidget {
   @override
   State<StatefulWidget> createState() => _TwoPlayerScreenState();
