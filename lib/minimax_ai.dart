@@ -34,7 +34,6 @@ class MiniMaxAI {
   }
 
   int move(Map<int, Mark> board) {
-
     int bestScore = -999;
     int bestMove = 0;
 
@@ -50,7 +49,6 @@ class MiniMaxAI {
           isMaximizing = false;
         } else {
           isMaximizing = Random().nextBool();
-          
         }
         int score = _miniMax(board, 0, isMaximizing);
 

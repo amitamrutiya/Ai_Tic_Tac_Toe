@@ -9,8 +9,7 @@ enum Winner { x, o, tie, none }
 
 enum GameMode { easy, medium, hard }
 
-enum PlayerMode {singleplayer,twoplayer}
-
+enum PlayerMode { singleplayer, twoplayer }
 
 const AI = Mark.x;
 const HUMAN = Mark.o;
