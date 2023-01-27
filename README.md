@@ -2,7 +2,20 @@
 
 A simple Tic Tac Toe game app for iOS and Android.
 
-# Getting Started
+## Getting Started
+
+Run Project Clone the repository
+```
+https://github.com/amitamrutiya2210/Ai_Tic_Tac_Toe
+```
+Install the dependencies
+```
+flutter pub get
+```
+Run the app on an emulator or device
+``` 
+flutter run
+```
 
 1) Download the app from this this [link](https://drive.google.com/file/d/1WruMb2vWFiU0ucBeFiy8pYDAfJV4Q04v/view?usp=sharing).
 2) Open the app on your android device.
@@ -10,7 +23,7 @@ A simple Tic Tac Toe game app for iOS and Android.
 4) Take turns with your opponent to place your marks on the board.
 5) The first player to get three marks in a row horizontally, vertically, or diagonally wins the game.
 
-# Features
+## Features
 - Single player mode against AI
   - Three mode
     - easy mode - you never loose
@@ -20,8 +33,9 @@ A simple Tic Tac Toe game app for iOS and Android.
 - Simple and easy to use interface
 - Great animation
 
-# Support
+## Support
 If you have any issues or questions about the app, please contact us at amitamrutiya2210@gmail.com for assistance.
 
+## Demo of Project : 
 https://user-images.githubusercontent.com/91112485/206857493-32199489-d66c-407d-87a2-8b058a6bb4e5.mp4
 
